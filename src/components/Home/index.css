@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-container {
+  display: flenonex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 350px;git commit -m " all test cases are fail"
+  width: 450px;
+  border-radius: 12px;
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+}
